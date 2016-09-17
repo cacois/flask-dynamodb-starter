@@ -12,7 +12,7 @@ Setup is pretty easy.
 
 ### Create DynamoDB local container
 
-If you don't already have it installed, (https://docs.docker.com/engine/installation/)[install docker]
+If you don't already have it installed, [install docker](https://docs.docker.com/engine/installation/)
 
 Then, run a DynamoDB container:
 
